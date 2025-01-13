@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3761317-ff03-4258-9c89-4d1655cb2e91" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/algoritmos_y_estructura_de_datos/algoritmos/BusquedaLineal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/algoritmos_y_estructura_de_datos/algoritmos/BusquedaBinaria.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,6 +62,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BusquedaBinaria.executor": "Run",
     "Application.BusquedaLineal.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -76,7 +77,20 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.BusquedaBinaria">
+    <configuration name="BusquedaBinaria" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mycompany.algoritmos_y_estructura_de_datos.algoritmos.BusquedaBinaria" />
+      <module name="algoritmos_y_estructura_de_datos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mycompany.algoritmos_y_estructura_de_datos.algoritmos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BusquedaLineal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.mycompany.algoritmos_y_estructura_de_datos.algoritmos.BusquedaLineal" />
       <module name="algoritmos_y_estructura_de_datos" />
@@ -92,6 +106,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BusquedaBinaria" />
         <item itemvalue="Application.BusquedaLineal" />
       </list>
     </recent_temporary>
@@ -114,7 +129,7 @@
       <updated>1736652139740</updated>
       <workItem from="1736652143582" duration="689000" />
       <workItem from="1736742462153" duration="153000" />
-      <workItem from="1736794020103" duration="1898000" />
+      <workItem from="1736794020103" duration="4520000" />
     </task>
     <servers />
   </component>

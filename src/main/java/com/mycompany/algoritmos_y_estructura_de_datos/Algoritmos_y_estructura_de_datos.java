@@ -11,6 +11,7 @@ package com.mycompany.algoritmos_y_estructura_de_datos;
 public class Algoritmos_y_estructura_de_datos {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Hello World!")
+     String bienvenido = "Hola Bienvenido";
     }
 }
